@@ -4,3 +4,5 @@ Elon Musk based twitter paper trading algorithm, using [twitterscraper](https://
 
 ![alt text](https://github.com/bsumser/muskRat/blob/master/image/musk.png?raw=true)
 
+# Dependencies
+This script requires [twitterscraper](https://github.com/taspinar/twitterscraper) to be installed to run. Check twitterscaper's repo for installation information.
