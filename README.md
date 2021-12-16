@@ -2,4 +2,5 @@
 Elon Musk BASED twitter paper trading algorithm
 
 
-![/image/](musk.png)
+![alt text](https://github.com/bsumser/muskRat/blob/master/image/musk.png?raw=true)
+
